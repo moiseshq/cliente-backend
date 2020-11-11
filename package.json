@@ -1,5 +1,5 @@
 {
-  "name": "cliente-backend",
+  "name": "backend-tp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moiseshq/cliente-backend.git"
+    "url": "git+https://github.com/KaioGonzaga/BackEnd-TP.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moiseshq/cliente-backend/issues"
+    "url": "https://github.com/KaioGonzaga/BackEnd-TP/issues"
   },
-  "homepage": "https://github.com/moiseshq/cliente-backend#readme",
+  "homepage": "https://github.com/KaioGonzaga/BackEnd-TP#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
